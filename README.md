@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Video+Editing-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Video+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Olive Video Editor Free Installer** — Olive is a free, open-source video editor for Windows, macOS, and Linux aiming to provide a professional non-linear editing experience. Works without internet access, no account required. Full offline installation.
+**💻 Olive Video Editor Free Installer** — Olive is a free, open-source professional video editor aiming to compete with DaVinci Resolve and Premiere Pro. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Olive Video Editor
 
-Olive is a free, open-source video editor for Windows, macOS, and Linux aiming to provide a professional non-linear editing experience. Features a node-based compositor, multi-track timeline, hardware-accelerated rendering, and support for major video formats. Olive targets video creators who want a free, open-source alternative to Premiere Pro with a professional editing paradigm.
+Olive is a free, open-source professional video editor aiming to compete with DaVinci Resolve and Premiere Pro. It features a node-based compositing system, real-time rendering, OpenColorIO color management, and GPU acceleration with a clean, modern interface.
 
 ---
 
 ## ❌ Problem: Olive Video Editor is hard to access
 
-- **Development Stage** — Still in active development; some features unstable or incomplete
-- **Community Size** — Much smaller than DaVinci Resolve community
-- **Feature Completeness** — Professional features less mature than DaVinci Resolve Free
-- **Stability** — Earlier versions had instability issues; improving with development
+- **Pre-Release Software** — Still in alpha/beta development; stability issues expected
+- **Missing Features** — Many professional features still under active development
+- **Crash Risk** — Unstable for production use on complex projects
+- **Small Team** — Development pace limited by a small volunteer team
 
 ---
 
@@ -121,7 +121,7 @@ Olive is a free, open-source video editor for Windows, macOS, and Linux aiming t
 
 ---
 
-**Olive Video Editor Free Installer** — Olive is a free, open-source video editor for Windows, macOS, and Linux aiming to provide a professional non-linear editing experience. Install without internet connection today!
+**Olive Video Editor Free Installer** — Olive is a free, open-source professional video editor aiming to compete with DaVinci Resolve and Premiere Pro. Install without internet connection today!
 
 <div align="center">
 
